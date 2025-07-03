@@ -68,6 +68,10 @@
   <a href="https://me.myltx.top/"><img src="https://img.shields.io/badge/-Blog-black?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="865147643@qq.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/myltx"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<!-- 小红书 -->
+  <a href="https://www.xiaohongshu.com/user/profile/664f0745000000001e0087d1"><img src="https://img.shields.io/badge/-小红书-FF6F61?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
+  <!-- bilibili -->
+  <a href="https://space.bilibili.com/167390207"><img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a>
 </p>
 
 ---
