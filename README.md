@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from China</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;AI+Productivity+Enthusiast;Open+Source+Contributor&center=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;AI+Productivity+Enthusiast;Open+Source+Contributor;Hiking+Lover&center=true&size=20">
 </p>
 
 ---
@@ -13,9 +13,8 @@
 - 🌱 I’m learning **React, NestJS, Deep Learning**
 - 💡 I often use **AI tools for development productivity**
 - 📝 I regularly write articles on [My Blog](https://me.myltx.top)
-- 💬 Ask me about **Vue, Nuxt, NestJS, Supabase, TypeScript**
-- 📫 Contact me at **[865148643@qq.com](865148643@qq.com)**
-- ⚡ Fun fact: I love minimalist design and effective learning workflows
+- 💬 Ask me anything
+- ⚡ Fun fact: I love minimalist design, effective learning workflows, and exploring nature through **hiking, trekking, and outdoor adventures**
 
 ---
 
@@ -46,21 +45,21 @@
 
 ---
 
-### 💹 GitHub Streak
+<!-- ### 💹 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=myltx&" alt="GitHub Streak" />
 </p>
 
----
+--- -->
 
-### 🗂️ Top Languages
+<!-- ### 🗂️ Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myltx&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
----
+--- -->
 
 ### 📲 Connect with me
 
@@ -82,7 +81,7 @@
 > **公众号：你的公众号名称**
 > 分享 AI + Web 技术与开发效率工具 -->
 
----
+<!-- --- -->
 
 <!-- <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github" alt="Activity Graph" />
